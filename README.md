@@ -1,4 +1,4 @@
-# Journey-Junction - ONGOING
+# Journey-Junction
 A modern web platform built with Node.js, Express, MongoDB, and REST API, ensuring a fast, scalable, and responsive experience. The front-end utilizes HTML, CSS, JavaScript, and Bootstrap for an intuitive, mobile-first design.
 
 
@@ -18,3 +18,7 @@ A modern web platform built with Node.js, Express, MongoDB, and REST API, ensuri
 - **Dynamic Data Handling**: Easy-to-use interfaces powered by a REST API and MongoDB.
 - **Fast and Scalable**: Built for performance with Node.js and Express.
 - **Modern UI**: Interactive frontend with clean, user-friendly design.
+
+
+## Demo ScreenShot
+![Screenshot (496)](https://github.com/user-attachments/assets/ec41b43b-9351-4fbc-a756-ed8f04892b6c)
